@@ -1,4 +1,7 @@
 # README
+It is important to note that the code is developed and the errors are fixed by using both "Stackoverflow" and "ChatGPT". The fixed errors are manually check to provide further reliance.
+
+
 Classification Code and Dataset Generation
 
 This repository contains code for various classification experiments using different datasets and systems. The code files are organized by number for a systematic approach to dataset generation and classification.
